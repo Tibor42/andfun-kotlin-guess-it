@@ -145,6 +145,9 @@ class GameViewModel : ViewModel() {
                 "trade",
                 "bag",
                 "roll",
+                "play",
+                "program",
+                "develop",
                 "bubble"
         )
         wordList.shuffle()
